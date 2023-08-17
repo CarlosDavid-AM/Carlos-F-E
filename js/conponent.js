@@ -11,7 +11,7 @@ function createBarra() {
                       <img src="/img/Logo.png" alt="Logo" class="h-7">
                   </div>
                   <div class="flex gap-x-4 text-sm">
-                      <a href="index.html">Inicio</a>
+                      <a href="/">Inicio</a>
                       <a href="proyectos.html">Proyectos Web</a>
                       <a href="acercaDeMi.html">Acerca de Mi</a>
                   </div>
@@ -72,7 +72,7 @@ function createPie() {
         <div class="flex flex-col gap-y-9 text-sm">
             <div class="flex flex-col gap-y-6">
                 <div class="flex ">
-                    <a href="index.html">Inicio</a>
+                    <a href="/">Inicio</a>
                     <a href="acercaDeMi.html" class="pl-20">Acerca de mi</a>
                 </div>
                 <div class="flex">
